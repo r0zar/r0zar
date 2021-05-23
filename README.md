@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/r0zar?template=classic&isocalendar=1&habits=1&isocalendar.duration=half-year&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&config.timezone=America%2FChicago)
+![Metrics](https://metrics.lecoq.io/r0zar?template=classic&isocalendar=1&habits=1&gists=1&projects=1&tweets=1&isocalendar.duration=half-year&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&projects.limit=4&projects.descriptions=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=America%2FChicago)
