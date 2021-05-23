@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/r0zar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&habits=1&isocalendar.duration=half-year&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&config.timezone=America%2FChicago)
+![Metrics](https://github.com/r0zar/r0zar/blob/main/github-metrics.svg)
