@@ -18,17 +18,8 @@ jobs:
           # Options
           user: r0zar
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: America/Chicago
-          plugin_gists: yes
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_projects: yes
-          plugin_projects_limit: 4
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: .user.twitter
+          plugin_lines: yes
