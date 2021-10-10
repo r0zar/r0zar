@@ -1431,8 +1431,8 @@
               15
             </div>
                     <div class="entry">
-              <span class="value">19</span>
-              <div class="bar" style="height: 45.23809523809524px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">17</span>
+              <div class="bar" style="height: 40.476190476190474px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               16
             </div>
                     <div class="entry">
@@ -1456,8 +1456,8 @@
               20
             </div>
                     <div class="entry">
-              <span class="value">11</span>
-              <div class="bar" style="height: 26.190476190476193px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">13</span>
+              <div class="bar" style="height: 30.952380952380953px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               21
             </div>
                     <div class="entry">
@@ -1482,8 +1482,8 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">35</span>
-                <div class="bar" style="height: 33.0188679245283px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">33</span>
+                <div class="bar" style="height: 31.132075471698112px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
@@ -1507,8 +1507,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">19</span>
-                <div class="bar" style="height: 17.92452830188679px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">21</span>
+                <div class="bar" style="height: 19.81132075471698px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -2517,10 +2517,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1666666666666665 0,1.1666666666666667 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1666666666666667 1.7,2.1666666666666665 z"/>
                             </g>
-                            <g transform="translate(-10.2, 10.416666666666668)">
+                            <g transform="translate(-10.2, 10.25)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5833333333333335 0,2.5833333333333335 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5833333333333335 1.7,3.5833333333333335 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.75 0,2.75 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.75 1.7,3.75 z"/>
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
