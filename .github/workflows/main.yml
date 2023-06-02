@@ -13,18 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: r0zar
+          token: ${{ secrets.METRICS_TOKEN 
           template: terminal
-          base: ""
-          config_timezone: America/Chicago
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_lines: yes
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_facts: yes      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
+          filename: metrics.terminal.svg
+          base: header, metadata
