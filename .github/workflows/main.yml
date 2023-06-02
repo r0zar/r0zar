@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: r0zar
-          template: classic
+          template: terminal
           base: ""
           config_timezone: America/Chicago
           plugin_isocalendar: yes
